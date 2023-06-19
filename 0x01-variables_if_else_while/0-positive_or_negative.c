@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - determines the sign of a randomly assigned number.
+ * main - Prints if number is positive, zero or negative
  * Return: Always (success)
  */
 int main(void)
