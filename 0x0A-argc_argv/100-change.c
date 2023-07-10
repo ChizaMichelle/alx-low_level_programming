@@ -34,4 +34,4 @@ num -= coins[a];
 }
 printf("%d\n", result);
 return (0);
-
+}
