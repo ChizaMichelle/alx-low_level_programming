@@ -11,3 +11,4 @@ if (index > 63)
 return (-1);
 *n = (~(1UL << index) & *n);
 return (1);
+}
